@@ -1,4 +1,4 @@
-# RFC 9213 Uyumlu API Gateway İstek Zamanlayıcısı
+# RFC 9213 Tabanlı API Gateway İstek Zamanlayıcısı
 
 Bu proje, modern API Gateway mimarilerinde kullanılan **RFC 9213 (Extensible HTTP Priorities)** standardına uygun bir öncelikli kuyruk zamanlayıcısı simülasyonudur. Sistem, C dilinin modülerlik prensipleriyle inşa edilmiş olup, performans kritik operasyonlar için **Min-Heap** veri yapısını kullanmaktadır.
 
